@@ -1,19 +1,14 @@
-#variables
-# examples of: ints, floats, boolean, strings
+# variable names
+# Pyton-2-Primitive-Types-2-Variable-Names.py
 
-students_count = 1000
+
+student_count = 1000
 rating = 4.99
-is_published = False
-course_name = "learning python"
+is_published = True
+course_name = "python programming"
 
-a = b = 9 # set differnt vars to same value
-print(a)
-print(b)
-
-x,y = 1,2
-print(x + y)
-print(course_name)
-
-
-
-
+# things all four variables have in commont
+# 1. meaniningful names
+# 2. lowerscase letters
+# 3. underscore to seperate multiple words
+# 4. space around = operator 
