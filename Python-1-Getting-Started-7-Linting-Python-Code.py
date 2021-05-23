@@ -12,3 +12,4 @@
 
 # different linters: flake8, mypy, pep8, prospector, pydocstyle, pylama, pylint
 # pylint is the default linter in the Python extension for VSCode
+# difference in linters is how they find and report errors
