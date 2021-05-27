@@ -1,0 +1,11 @@
+# get index of each item and item paired in touble
+
+letters = ["a", "b", "c"]
+for letter in enumerate(letters):
+    print(letter[0])
+
+
+#   output:
+#       0
+#       1
+#       2
